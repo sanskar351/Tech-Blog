@@ -15,6 +15,14 @@ Working -
 5) Static content is provided to study.
 6) Logout option is also provided so that user can logout after completion.
 
+Technology Used -  
+
+Frontend - Html , Css , Bootstap.
+
+Backend - Java , Jsp , Servlet.
+
+Database - Mysql.
+
 Images -
 
 ![WhatsApp Image 2022-09-27 at 5 46 01 PM](https://user-images.githubusercontent.com/101418571/192525061-4c0f008b-f427-4e75-8247-eb668cea16a3.jpeg)
